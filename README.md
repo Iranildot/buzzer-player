@@ -34,7 +34,7 @@ Buzzer Player is a Python-based GUI application designed to interface with an Ar
 
 ## Usage
 
-- **Connect Arduino**: Ensure your Arduino is connected to your computer's USB port.
+- **Connect Arduino**: Ensure your Arduino is connected to your computer's USB port and the .ino program is installed in your device.
 - **Run the Application**:
 
 ```bash``` 
@@ -51,6 +51,14 @@ Buzzer Player is a Python-based GUI application designed to interface with an Ar
 - **shearch_file**: Opens a file dialog for selecting MIDI files.
 - **play_song**: Manages the playback loop, sending commands to the Arduino and updating the GUI.
 - **alert_window**: Displays alert messages in a separate window.
+
+## How the app looks like
+
+![buzzer player defult page](https://github.com/user-attachments/assets/7d48d762-77fa-4631-84a7-1138572a2223)
+
+# How the circuit looks like
+
+![buzzer player circuit](https://github.com/user-attachments/assets/5407f215-68c4-416f-9b25-1c300849ff96)
 
 ## Contributing
 
