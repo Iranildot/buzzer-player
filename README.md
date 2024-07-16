@@ -56,7 +56,7 @@ Buzzer Player is a Python-based GUI application designed to interface with an Ar
 
 ![buzzer player defult page](https://github.com/user-attachments/assets/7d48d762-77fa-4631-84a7-1138572a2223)
 
-# How the circuit looks like
+## How the circuit looks like
 
 ![buzzer player circuit](https://github.com/user-attachments/assets/5407f215-68c4-416f-9b25-1c300849ff96)
 
